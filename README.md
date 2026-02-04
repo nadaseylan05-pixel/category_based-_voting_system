@@ -6,6 +6,7 @@ Define a main category and multiple sub-categories
 Cast votes for the available categories
 View voting results in a clear textual chart
 Display statistics such as the most and least popular categories
+
 ✨ Features
 Dynamic category creation
 Secure input validation
@@ -13,6 +14,7 @@ Menu-driven console interface
 Vote recording system
 Result visualization using symbols (*)
 Most and least popular category analysis
+
 🧠 Technical Skills Demonstrated
 C Programming
 Functions & modular design
@@ -23,6 +25,7 @@ Loops (for, do-while)
 Conditional logic (if, switch)
 Console-based UI design
 Standard library usage: <stdio.h>
+
 ▶️ How to Run
 Bash
 gcc voting_system.c -o voting_system
